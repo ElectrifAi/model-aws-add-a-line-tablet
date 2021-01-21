@@ -166,4 +166,4 @@
 - Output: a JSON list of objects contaning, for each record in the original orderthe following fields:
     - ACCOUNT_ID: id of account
     - SCORE:  The propensity score indicating the likelihood that the account will add a tablet line.
-  Reference file: sample.zip.out
+ -Reference file: sample.zip.out
